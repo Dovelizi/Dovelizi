@@ -19,7 +19,7 @@
   - ⚡ Fun fact: ...
 ---
 <div align="center">
-  <h3 align="center">GitHub Commit <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+  <h2 align="center">GitHub Commit <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Dovelizi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovelizi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux"/>
   <img src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=macOS"/>
 </div>
----
-### My GitHub Contributions
-
-![](https://github.com/Dovelizi/Dovelizi/blob/main/assets/github-contribution-grid-snake.svg)
+<div align="center">
+<h2>My GitHub Contributions</h2>
+<img src="https://github.com/Dovelizi/Dovelizi/blob/main/assets/github-contribution-grid-snake.svg"/>
+</div>
  
