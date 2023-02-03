@@ -7,5 +7,5 @@
 ---
 ### My GitHub Contributions
 
-![](https://github.com/Dovelizi/Dovelizi/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/Dovelizi/Dovelizi/blob/main/assets/github-contribution-grid-snake.svg)
  
