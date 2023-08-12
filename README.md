@@ -20,7 +20,12 @@
 ---
 <div align="center">
   <h2 align="center">GitHub Commit <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dovelizi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovelizi&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Dovelizi">
+    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Dovelizi&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/Dovelizi">
+    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovelizi&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
+  </a>
 </div>
 
 <div align="center">
