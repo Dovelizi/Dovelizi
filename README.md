@@ -69,15 +69,15 @@ devops/       → Docker | Nginx | Linux | Git
 
 ---
 
-### > cat /var/log/commit-summary
+### > cat /proc/links
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dovelizi&theme=github_dark)](https://github.com/Dovelizi)
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dovelizi&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dovelizi&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dovelizi&theme=github_dark&utcOffset=8" />
+[![Blog](https://img.shields.io/badge/Blog-dovelizi.github.io-00FF41?style=for-the-badge&logo=hexo&logoColor=white)](https://dovelizi.github.io/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/lizi-lemo-i/)
+&nbsp;
+[![AI Tools](https://img.shields.io/badge/AI_Tools-Collection-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dovelizi/ai-tools-collection)
 
 </div>
 
@@ -85,11 +85,9 @@ devops/       → Docker | Nginx | Linux | Git
 
 <div align="center">
 
-```bash
-$ uptime
-```
-
 <img src="https://komarev.com/ghpvc/?username=Dovelizi&style=for-the-badge&color=00FF41&label=VISITORS" />
+
+<br/><br/>
 
 ```
 $ echo $MOTTO
