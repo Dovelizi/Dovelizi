@@ -20,15 +20,9 @@
 <table>
 <tr><td>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+&emsp;&emsp;5 年 Java 后端，专注高并发系统与 AI 工程化落地。目前在探索 **MCP + Agent** 驱动的下一代出行服务 🚗
 
-&emsp;&emsp;嗨，我是 **李子君（Lizi）**，一名热爱技术的 Java 后端工程师，目前就职于 **腾讯云智 · 出行服务**。
-
-&emsp;&emsp;5 年后端开发经验，专注于高并发系统设计和 AI 工程化落地。最近在做顺风车 **MCP 化 Agent** 出行的探索，把核心出行能力封装为标准化 MCP 接口，让 AI 也能帮你打车 🚗
-
-&emsp;&emsp;**"Talk is cheap. Show me the code."** — Linus Torvalds
-
-🏆 蓝桥杯省赛一等奖 &emsp; 🏆 微信小程序全国三等奖
+&emsp;&emsp;🏆 蓝桥杯省赛一等奖 &emsp; 🏆 微信小程序全国三等奖
 
 </td></tr>
 </table>
