@@ -22,7 +22,9 @@
 
 &emsp;&emsp;5 年 Java 后端，专注高并发系统与 AI 工程化落地。目前在探索 **MCP + Agent** 驱动的下一代出行服务 🚗
 
-&emsp;&emsp;🏆 蓝桥杯省赛一等奖 &emsp; 🏆 微信小程序全国三等奖
+&emsp;&emsp;**"Talk is cheap. Show me the code."** — Linus Torvalds
+
+&emsp;&emsp;🏆 蓝桥杯省赛一等奖 &emsp; 🏆 微信小程序全国三等奖 &emsp; 📮 dovelizi@foxmail.com
 
 </td></tr>
 </table>
