@@ -91,12 +91,8 @@
 <!-- Row 3: Trophies -->
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Dovelizi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
-<!-- Row 4: Activity Graph with dark/light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF4120" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=000000&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF4120" />
-</picture>
+<!-- Row 4: Activity Graph -->
+[![Dovelizi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF41)](https://github.com/Dovelizi)
 
 <!-- Row 5: Profile Details Card -->
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dovelizi&theme=github_dark" />
