@@ -20,11 +20,12 @@
 <table>
 <tr><td>
 
-&emsp;&emsp;5 年 Java 后端，专注高并发系统与 AI 工程化落地。目前在探索 **MCP + Agent** 驱动的下一代出行服务 🚗
+&emsp;&emsp;5 年+ Java 后端，专注高并发系统与 AI 工程化落地。目前在探索 **MCP + Agent** 驱动的下一代出行服务 🚗
+&emsp;&emsp;有一颗向往自由但是被禁锢的❤️ 平时会running🏃 爬山🧗 徒步🚶 骑车🚴 追番📺，其他待开发ing~
 
 &emsp;&emsp;**"Talk is cheap. Show me the code."** — Linus Torvalds
-
-&emsp;&emsp;🏆 蓝桥杯省赛一等奖 &emsp; 🏆 微信小程序全国三等奖 &emsp; 📮 dovelizi@foxmail.com
+&emsp; 📮 dovelizi@foxmail.com
+&emsp;&emsp;🏆 蓝桥杯省赛一等奖 &emsp; 🏆 微信小程序全国三等奖 
 
 </td></tr>
 </table>
