@@ -80,47 +80,36 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-## 🔥 Featured Projects
-
-```diff
-+ [MCP Agent]     Ride-hailing AI Agent — 6 MCP interfaces, BFF parallel orchestration
-+ [OrderSync]     Dual-channel consistency — segmented delay + active polling, 95%+
-+ [CosyVoice]     LLM TTS integration — 1M+ daily calls, MOS 4.2+
-+ [SMS Optimize]  Cost reduction — -57.5% cost, +1.8% order conversion
-+ [CrossCity Bus] Business growth — +213% orders, +103% DAU
-+ [AI Tools]      Open-source Agent Skills — github.com/Dovelizi/ai-tools-collection
-```
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dovelizi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+<!-- Row 1: Stats + Streak -->
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dovelizi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Dovelizi&theme=chartreuse-dark&hide_border=true&background=00000000&stroke=30363D&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=00FF41" />
 
-<br/>
+<!-- Row 2: Top Languages + Productive Time -->
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dovelizi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dovelizi&theme=github_dark&utcOffset=8" />
 
+<!-- Row 3: Trophies -->
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Dovelizi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<!-- Row 4: Activity Graph with dark/light mode -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF4120" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=000000&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF4120" />
 </picture>
 
+<!-- Row 5: Profile Details Card -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dovelizi&theme=github_dark" />
+
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</picture>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,100:58A6FF&height=150&section=footer" />
 
