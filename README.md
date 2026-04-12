@@ -1,171 +1,101 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Lizi;Java+Backend+Engineer+%E2%98%95;AI+%2B+Agent+Explorer+%F0%9F%A4%96;Building+the+future+of+mobility+%F0%9F%9A%97" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges -->
-[![Blog](https://img.shields.io/badge/Blog-dovelizi.github.io-58A6FF?style=flat-square&logo=hexo&logoColor=white)](https://dovelizi.github.io/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-lizi--lemo--i-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/lizi-lemo-i/)
-[![GitHub](https://img.shields.io/badge/GitHub-Dovelizi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovelizi)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,100:58A6FF&height=200&section=header&text=root@lizi:~$&fontSize=40&fontColor=00FF41&fontAlignY=45&animation=twinkling" />
 
 </div>
 
----
+```bash
+$ whoami
+> Lizi (李子君) — Senior Java Backend Engineer
 
-### 🧑‍💻 About Me
+$ cat /etc/profile
+> 🏢 Tencent Cloud · Mobility Services | Wuhan, China
+> 📅 5+ years of backend development experience
+> 🎯 Specialized in high-concurrency systems & AI Agent architecture
+> 🏆 Lanqiao Cup Provincial 1st Prize | WeChat Mini Program National 3rd Prize
 
-```yaml
-name: Lizi (李子君)
-role: Senior Java Backend Engineer
-company: Tencent Cloud · Mobility Services
-location: Wuhan, China
-experience: 5+ years
-
-current_focus:
-  - 🚗 Ride-hailing MCP-ification & AI Agent for mobility
-  - 🤖 Agent architecture (MCP Protocol / N8N / Dify)
-  - ☕ High-concurrency order systems (300K+ daily orders)
-
-previous:
-  - Hello Inc. (哈啰) — Ride-hailing core systems & AI voice (CosyVoice TTS)
-  - KaFang Tech — Quantitative data platform & algorithm evaluation
-
-fun_facts:
-  - 🏆 Lanqiao Cup Provincial First Prize (Algorithm)
-  - 🏆 WeChat Mini Program National Third Prize
-  - 📝 I write tech blogs at dovelizi.github.io
+$ cat /proc/current_focus
+> [1] Ride-hailing MCP-ification & AI Agent — Tencent
+> [2] Order consistency engine — 300K+ daily orders
+> [3] Open-source AI tools — github.com/Dovelizi/ai-tools-collection
 ```
 
 ---
 
-### ⚡ Tech Stack
+### > ls ~/tech-stack/
+
+```bash
+$ ls ~/tech-stack/
+backend/      → Java | Spring | Spring Boot | MyBatis-Plus
+data/         → MySQL | Redis | Elasticsearch | MongoDB
+middleware/   → RocketMQ | Kafka
+ai/           → LLM | MCP Protocol | Dify | N8N | CosyVoice
+devops/       → Docker | Nginx | Linux | Git
+```
+
+---
+
+### > ls ~/projects/ --detail
+
+```diff
++ [MCP Agent]     Ride-hailing AI Agent — 6 MCP interfaces, BFF parallel orchestration
++ [OrderSync]     Dual-channel consistency — segmented delay + active polling, 95%+
++ [CosyVoice]     LLM TTS integration — 1M+ daily calls, MOS 4.2+
++ [SMS Optimize]  Cost reduction — -57.5% cost, +1.8% order conversion
++ [CrossCity Bus] Business growth — +213% orders, +103% DAU
++ [AI Tools]      Open-source skills — github.com/Dovelizi/ai-tools-collection
+```
+
+---
+
+### > neofetch --github
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Data & Middleware**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI & Agent**
-
-![OpenAI](https://img.shields.io/badge/LLM_/_Agent-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-58A6FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=dify&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dovelizi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Dovelizi&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=30363D&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=00FF41" />
 
 </div>
 
 ---
 
-### 🔥 What I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🚗 Ride-hailing MCP Agent
-> Pioneering AI Agent for mobility services at Tencent
-
-- Encapsulated full ride-hailing flow into **6 standardized MCP interfaces**
-- Built BFF aggregation layer with **parallel orchestration** of 8 core capabilities
-- Designed Redis cache passthrough mechanism for seamless Agent-to-order binding
-- First AI Agent implementation in mobility services
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡️ Order Consistency Engine
-> Zero-complaint order status sync system
-
-- **Segmented delay messages** + dynamic mileage-based intervals
-- Dual-channel sync: passive MQ + active polling fallback
-- Adapted 4 heterogeneous supplier status mappings
-- Serving **300K+ daily orders** with 95%+ consistency
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎙️ CosyVoice TTS Integration
-> AI voice synthesis for intelligent outbound calls
-
-- Integrated CosyVoice LLM-based TTS for automated voice generation
-- Supporting **1M+ daily outbound calls**
-- MOS score: **4.2+ / 5.0**
-- 15% increase in average call duration
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 AI Tools Collection
-> Open-source Agent Skills & MCP tools
-
-- [**java-interview-agent**](https://github.com/Dovelizi/ai-tools-collection) — AI-powered mock interviewer that adapts to your resume
-- Web-search powered dynamic questions
-- Auto-generates detailed review reports
-- *More tools coming soon...*
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### > git log --graph --oneline --all
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dovelizi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dovelizi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovelizi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF4120)](https://github.com/Dovelizi)
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### > cat /var/log/commit-summary
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dovelizi/Dovelizi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dovelizi/Dovelizi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dovelizi/Dovelizi/output/github-contribution-grid-snake.svg" />
-</picture>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dovelizi&theme=github_dark)](https://github.com/Dovelizi)
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dovelizi&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dovelizi&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dovelizi&theme=github_dark&utcOffset=8" />
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dovelizi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+```bash
+$ uptime
+```
 
-**If you like what I do, consider giving a ⭐**
+<img src="https://komarev.com/ghpvc/?username=Dovelizi&style=for-the-badge&color=00FF41&label=VISITORS" />
 
-*"Talk is cheap. Show me the code." — Linus Torvalds*
+```
+$ echo $MOTTO
+> "Talk is cheap. Show me the code." — Linus Torvalds
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,100:58A6FF&height=120&section=footer" />
 
 </div>
