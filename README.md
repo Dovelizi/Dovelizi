@@ -88,9 +88,6 @@
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dovelizi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dovelizi&theme=github_dark&utcOffset=8" />
 
-<!-- Row 3: Trophies -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Dovelizi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
 <!-- Row 4: Activity Graph -->
 [![Dovelizi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dovelizi&theme=github-compact&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=FF6B6B&area=true&area_color=00FF41)](https://github.com/Dovelizi)
 
