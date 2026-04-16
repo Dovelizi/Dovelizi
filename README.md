@@ -37,44 +37,41 @@
 <div align="center">
 
 <!-- Animated Icons -->
-<p>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="65" height="65" />
-</p>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="65" height="65" />
 
-**`Backend & Frameworks`**
+<br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-DC382D?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=fff)
+<!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=java,spring,redis,kafka,elasticsearch,docker,linux,git,idea,vscode" />
 
-**`Data & Middleware`**
+<br/><br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=fff)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+**Backend & Frameworks**
 
-**`AI & Agent`**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis_Plus-DC382D?logo=mybatis&logoColor=fff&style=flat)
 
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=fff)
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-58A6FF?style=for-the-badge&logo=anthropic&logoColor=fff)
-![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=dify&logoColor=fff)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
+**Data & Middleware**
 
-**`DevOps & Tools`**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?logo=apacherocketmq&logoColor=fff&style=flat)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
+![Elasticsearch](https://img.shields.io/badge/ES-005571?logo=elasticsearch&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+**AI & Agent**
+
+![LLM](https://img.shields.io/badge/LLM-412991?logo=openai&logoColor=fff&style=flat)
+![MCP](https://img.shields.io/badge/MCP_Protocol-58A6FF?logo=anthropic&logoColor=fff&style=flat)
+![Dify](https://img.shields.io/badge/Dify-1C64F2?logo=dify&logoColor=fff&style=flat)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?logo=n8n&logoColor=fff&style=flat)
 
 </div>
 
